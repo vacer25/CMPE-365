@@ -1,9 +1,6 @@
 # CMPE 365
 Code for CMPE 365 Algorithms Course 
 
-#### ``Lab X`` directory:
-Contains solutions to laboratory assignment X, in python
-
 <hr>
 
 All of these programs are tested, but not extensively. There may be some edge cases and certain inputs what won't work.
